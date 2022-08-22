@@ -97,4 +97,4 @@ BONUS: [Видео](https://www.youtube.com/watch?v=IAwx__gVrzo)
 
 За подбор спасибо <b>Гау-Гау</b>!
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

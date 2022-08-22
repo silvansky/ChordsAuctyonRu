@@ -67,4 +67,4 @@ Em H7Em H7
 
 BONUS: [видео, на котором видно почти всё](http://www.youtube.com/watch?v=y3BUzzB50lg)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

@@ -98,4 +98,4 @@ BONUS: [Видео](https://youtu.be/swDs4AQUZAM?t=9m23s)
 
 За подбор спасибо *Гау-Гау*!
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

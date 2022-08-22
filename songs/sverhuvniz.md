@@ -63,4 +63,4 @@ A#m*: x-0-3-3-2-x
 BONUS: [видео на ютубе](https://www.youtube.com/watch?v=DhEjtU9tjV0)
 ну и [вариант на тон выше](https://www.youtube.com/watch?v=bbjRUgjfJUA)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

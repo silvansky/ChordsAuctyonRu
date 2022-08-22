@@ -81,4 +81,4 @@ Hm:  x-2-4-4-3-2
 
 BONUS: [видео на ютубе](https://www.youtube.com/watch?v=zyXN6ODid1Q)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

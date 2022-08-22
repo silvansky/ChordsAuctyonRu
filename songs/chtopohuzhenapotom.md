@@ -78,4 +78,4 @@ G:   3-2-0-0-3-3
 
 BONUS: [видео на youtube](https://www.youtube.com/watch?v=j0Yn-LtYHkc), неплохо видно
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

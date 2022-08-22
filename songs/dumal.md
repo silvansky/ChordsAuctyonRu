@@ -83,4 +83,4 @@ Em:   x-x-x-4-5-3
 
 BONUS: [видео](https://www.youtube.com/watch?v=I1flwm2otJg), на котором всё видно
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

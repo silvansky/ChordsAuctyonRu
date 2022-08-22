@@ -67,4 +67,4 @@ F#*: 2-1-2-3-0-x
 
 BONUS: [Видео с презентации альбома](https://www.youtube.com/watch?v=CDesC0TX67o)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

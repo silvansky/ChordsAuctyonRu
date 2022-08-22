@@ -66,4 +66,4 @@ Fm:    1-x-0-1-1-x
 
 Подсмотрено на [ютубе](https://www.youtube.com/watch?v=fjEVW8r4-yk)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

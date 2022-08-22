@@ -48,4 +48,4 @@ F#m: 2-4-4-2-2-x
 
 Бонус: [видео 97 года](https://www.youtube.com/watch?v=BPzU373CGpg)
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)

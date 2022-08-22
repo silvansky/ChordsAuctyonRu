@@ -104,7 +104,7 @@ func saveSongs(_ songs: [Song]) {
 
         var songContent = song.content
 
-        songContent += "\n[Список песен](../songs.md)"
+        songContent += "\n[Список песен](../README.md)"
 
         do {
             try songContent.write(toFile: filePath, atomically: true, encoding: .utf8)
@@ -113,7 +113,7 @@ func saveSongs(_ songs: [Song]) {
         }
     }
 
-    let tableOfContentsPath = "/Users/valentine/Projects/ChordsAuctyonRu/songs.md"
+    let tableOfContentsPath = "/Users/valentine/Projects/ChordsAuctyonRu/README.md"
 
     do {
         try tableOfContents.write(toFile: tableOfContentsPath, atomically: true, encoding: .utf8)

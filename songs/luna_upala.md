@@ -91,4 +91,4 @@ BONUS: [Видео](https://youtu.be/FegFBcm5o4w?t=10m2s)
 
 За начальный подбор спасибо *Гау-Гау* и *vorschmack*!
 ```
-[Список песен](../songs.md)
+[Список песен](../README.md)
