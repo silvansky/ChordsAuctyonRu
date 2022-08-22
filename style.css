@@ -1,0 +1,74 @@
+.description-header,
+.song-list,
+.song-content {
+	padding-left: 10px;
+}
+
+#cetral-column {
+	width: 900px;
+}
+
+pre {
+	font-size: 18px;
+}
+
+@media only screen and (max-device-width: 480px) {
+	body{
+		-webkit-text-size-adjust: 100%;
+  	}
+
+	pre {
+		font-size: 40px;
+	}
+
+	.description-header > pre,
+	.song-list > pre {
+		white-space: pre-wrap; 
+	}
+
+	#logo {
+		float:none;
+		width: auto;
+	}
+
+	#left-border,
+	#right-border {
+		width: 0px;
+	}
+
+	.song-link {
+		text-decoration: none;
+		line-height: 200%;
+	}
+	
+	.description-header,
+	.song-list {
+		padding-left: 40px;
+		padding-top: 20px;
+	}
+
+	#cetral-column {
+		width: 100%;
+	}
+}
+/*
+     FILE ARCHIVED ON 08:08:44 Sep 20, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:36:16 Aug 22, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 79.323
+  exclusion.robots: 0.198
+  exclusion.robots.policy: 0.182
+  RedisCDXSource: 7.646
+  esindex: 0.008
+  LoadShardBlock: 54.8 (3)
+  PetaboxLoader3.datanode: 108.516 (5)
+  CDXLines.iter: 13.756 (3)
+  load_resource: 171.0 (2)
+  PetaboxLoader3.resolve: 88.445 (2)
+*/
