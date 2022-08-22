@@ -88,6 +88,8 @@ func saveSongs(_ songs: [Song]) {
     var tableOfContents: String = """
 # Аккорды группы АукцЫон и Леонида Фёдорова
 
+![Logo](logo.jpg)
+
 Переехали с сайта chords.auctyon.ru
 
 ## Песни
