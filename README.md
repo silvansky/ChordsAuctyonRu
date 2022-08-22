@@ -121,3 +121,13 @@
 - [Шишки](songs/shishki.md)
 - [Юла](songs/yula.md)
 - [Ягода](songs/yagoda.md)
+
+## Обрывки/наброски
+
+- [Ещё не поздно](songs/nepozdno.md)
+- [Католики](songs/katoliki.md)
+- [Колдун](songs/koldun.md)
+
+## Инфо
+
+[Как читать табы](HOWTO.md)
