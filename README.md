@@ -59,6 +59,7 @@
 - [Музыка моя](songs/muzikamoya.md)
 - [На Солнце](songs/na_solnce.md)
 - [На дне травы](songs/na_dne_travy.md)
+- [На краю](songs/nakrayu.md)
 - [Не было бы больно](songs/nebilobybolno.md)
 - [Небо напополам](songs/nebonapopolam.md)
 - [Нежно](songs/nezhno.md)
