@@ -1,4 +1,7 @@
 # Стало
+
+[Видео, на котором видно почти всё](http://www.youtube.com/watch?v=y3BUzzB50lg)
+
 ```
 
 (Фёдоров/Озерский)
@@ -65,6 +68,5 @@ Em H7Em H7
 
 в общем, кошмар.
 
-BONUS: [видео, на котором видно почти всё](http://www.youtube.com/watch?v=y3BUzzB50lg)
 ```
 [Список песен](../README.md)

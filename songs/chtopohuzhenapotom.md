@@ -1,4 +1,7 @@
 # Что похуже на потом
+
+[Видео на youtube](https://www.youtube.com/watch?v=j0Yn-LtYHkc), неплохо видно
+
 ```
 
 (Фёдоров/Озерский)
@@ -75,7 +78,5 @@ Em:  0-2-2-0-0-0
 A7:  x-0-2-0-2-x
 F#:  2-4-4-3-2-2
 G:   3-2-0-0-3-3
-
-BONUS: [видео на youtube](https://www.youtube.com/watch?v=j0Yn-LtYHkc), неплохо видно
 ```
 [Список песен](../README.md)

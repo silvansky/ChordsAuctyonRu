@@ -1,4 +1,7 @@
 # Монте Крю
+
+[Видео на ютубе](https://www.youtube.com/watch?v=zyXN6ODid1Q)
+
 ```
 
 (Фёдоров/Озерский)
@@ -76,9 +79,7 @@ F#m         Hm
 F#m: 2-4-4-2-2-2
 Em:  0-2-2-0-0-0
 Hm:  x-2-4-4-3-2
-
+```
 Основано на присланном *BADMARSHAK*
 
-BONUS: [видео на ютубе](https://www.youtube.com/watch?v=zyXN6ODid1Q)
-```
 [Список песен](../README.md)

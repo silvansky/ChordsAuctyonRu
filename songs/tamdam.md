@@ -1,4 +1,7 @@
 # Там-дам
+
+[Видео на ютубе](https://www.youtube.com/watch?v=fjEVW8r4-yk)
+
 ```
 
 (Федоров/Озерский)
@@ -63,7 +66,5 @@ Dm\h:  x-2-0-2-3-x
 Dm\a#: x-1-0-2-3-x
 G:     3-x-0-0-3-x
 Fm:    1-x-0-1-1-x
-
-Подсмотрено на [ютубе](https://www.youtube.com/watch?v=fjEVW8r4-yk)
 ```
 [Список песен](../README.md)

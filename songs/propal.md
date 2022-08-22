@@ -1,4 +1,7 @@
 # Пропал
+
+[Видео с презентации альбома](https://www.youtube.com/watch?v=CDesC0TX67o)
+
 ```
 (Фёдоров/Озерский)
 
@@ -64,7 +67,5 @@ F#                                   Em
 Em:  0-2-2-0-0-0
 F#:  2-x-2-0-0-x
 F#*: 2-1-2-3-0-x
-
-BONUS: [Видео с презентации альбома](https://www.youtube.com/watch?v=CDesC0TX67o)
 ```
 [Список песен](../README.md)

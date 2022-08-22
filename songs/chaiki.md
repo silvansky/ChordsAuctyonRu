@@ -1,10 +1,12 @@
 # Чайки
+
+[Видео с презентации альбома](https://www.youtube.com/watch?v=qwXMUASF3cw)
+[Табулатура на Songsterr.com](httpd://www.songsterr.com/a/wsa/tab-s408221t0)
+
 ```
 (Фёдоров/Озерский)
 
 Альбом: На Солнце
-
-[Табулатура на Songsterr.com](httpd://www.songsterr.com/a/wsa/tab-s408221t0)
 
 * Вступление:
 
@@ -77,8 +79,6 @@ Hm:   2-2-0-0-0-x
 F#*:  2-x-2-0-0-x
 D*:   5-5-4-x-x-x
 Gm:   3-x-0-3-3-x
-
-
-BONUS: [Видео с презентации альбома](https://www.youtube.com/watch?v=qwXMUASF3cw)
 ```
+
 [Список песен](../README.md)

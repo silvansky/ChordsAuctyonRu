@@ -1,10 +1,12 @@
 # Седьмой
+
+[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s399549t2)
+[Видео с АукцЫон без саксофона](https://www.youtube.com/watch?v=xz0qU5WUKuw), там неплохо видно все аккорды.
+
 ```
 
 (Фёдоров/Озерский)
 Альбом: Птица
-
-[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s399549t2)
 
 * вступление на гитаре (с глушением),
 * оно же играется почти всю песню:
@@ -111,7 +113,5 @@ C:  x-3-2-0-1-x
 
 Em: 0-2-2-0-0-x
 Hm: x-2-4-4-3-x
-
-BONUS: [видео с АукцЫон без саксофона](https://www.youtube.com/watch?v=xz0qU5WUKuw), там неплохо видно все аккорды.
 ```
 [Список песен](../README.md)

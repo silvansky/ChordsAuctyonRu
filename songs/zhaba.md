@@ -1,4 +1,7 @@
 # Жаба
+
+[Видео на ютубе](https://www.youtube.com/watch?v=6bKZoKQJ25Q)
+
 ```
 
 (Фёдоров/Озерский)
@@ -35,7 +38,5 @@ A7:  x-0-2-0-2-x
 A+1: x-0-2-3-2-x
 G:   3-2-0-0-3-x
 Hm:  2-2-4-4-3-x
-
-BONUS: [видео на ютубе](https://www.youtube.com/watch?v=6bKZoKQJ25Q)
 ```
 [Список песен](../README.md)

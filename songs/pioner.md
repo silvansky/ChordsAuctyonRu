@@ -1,4 +1,7 @@
 # Пионер
+
+[Видео 97 года](https://www.youtube.com/watch?v=BPzU373CGpg)
+
 ```
 (Фёдоров/Озерский)
 
@@ -45,7 +48,5 @@ E:   0-2-2-1-0-0
 C#m: x-4-6-6-5-4
 A:   5-7-7-6-5-x
 F#m: 2-4-4-2-2-x
-
-Бонус: [видео 97 года](https://www.youtube.com/watch?v=BPzU373CGpg)
 ```
 [Список песен](../README.md)

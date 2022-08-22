@@ -1,9 +1,13 @@
 # Осколки
+
+[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s399072t3)
+
+[Видео 97 года, акустика](https://www.youtube.com/watch?v=F9z8Qa-dJRU)
+Лёня на видео много сбивается, но суть ясна.
+
 ```
 
 Альбом: Как я стал предателем
-
-[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s399072t3)
 
 Вступление:
 
@@ -120,8 +124,5 @@ E:   0-2-2-1-0-x
 Dm:  x-0-3-2-3-1
 A*:  x-0-2-2-2-0
 A#*: x-0-3-3-3-0
-
-Супер-бонус: [видео 97 года, акустика](https://www.youtube.com/watch?v=F9z8Qa-dJRU)
-Лёня на видео много сбивается, но суть ясна.
 ```
 [Список песен](../README.md)

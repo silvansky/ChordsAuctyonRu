@@ -1,4 +1,7 @@
 # Пан
+
+[Видео с пилой](https://www.youtube.com/watch?v=ux-9jY4WtmE)
+
 ```
 
 (Фёдоров/Авалиани)
@@ -77,12 +80,8 @@ A:   x-0-2-2-2-x
 D:   x-0-0-2-3-2
 Hm:  x-2-4-4-3-x
 F#m: 2-4-4-2-2-x
-
-За начальный подбор спасибо <b>Гау-Гау</b>!
-
-Текст стихотворения взят [отсюда](https://godliteratury.ru/public-post/leonid-fyodorov-slykhali-umer-pan), но Лёня его немного изменил.
-
-BONUS: [Видео с пилой](https://www.youtube.com/watch?v=ux-9jY4WtmE)
-
 ```
+Текст стихотворения взят [отсюда](https://godliteratury.ru/public-post/leonid-fyodorov-slykhali-umer-pan), но Лёня его немного изменил.
+За начальный подбор спасибо *Гау-Гау*!
+
 [Список песен](../README.md)

@@ -1,4 +1,9 @@
 # Сверху вниз
+
+[Видео на ютубе](https://www.youtube.com/watch?v=DhEjtU9tjV0)
+ну и [вариант на тон выше](https://www.youtube.com/watch?v=bbjRUgjfJUA)
+
+
 ```
 
 (Фёдоров/Озерский)
@@ -60,7 +65,5 @@ A#m*: x-0-3-3-2-x
 Впрочем, иногда эта песня играется на тон выше
 (Hm E G Hm и так далее), но это если Лёня включает ударные.
 
-BONUS: [видео на ютубе](https://www.youtube.com/watch?v=DhEjtU9tjV0)
-ну и [вариант на тон выше](https://www.youtube.com/watch?v=bbjRUgjfJUA)
 ```
 [Список песен](../README.md)

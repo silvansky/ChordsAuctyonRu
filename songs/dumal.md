@@ -1,4 +1,7 @@
 # Думал
+
+[Видео](https://www.youtube.com/watch?v=I1flwm2otJg), на котором всё видно
+
 ```
 
 (Фёдоров/Введенский)
@@ -80,7 +83,5 @@ Dm/F: x-0-3-2-3-x
 Dm:   x-0-0-2-3-1
 Gm:   x-1-0-0-3-x
 Em:   x-x-x-4-5-3
-
-BONUS: [видео](https://www.youtube.com/watch?v=I1flwm2otJg), на котором всё видно
 ```
 [Список песен](../README.md)
