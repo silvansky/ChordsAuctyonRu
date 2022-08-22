@@ -102,8 +102,12 @@ func saveSongs(_ songs: [Song]) {
 
         tableOfContents += "- \(relativeLink)\n"
 
+        var songContent = song.content
+
+        songContent += "\n[Список песен](../songs.md)"
+
         do {
-            try song.content.write(toFile: filePath, atomically: true, encoding: .utf8)
+            try songContent.write(toFile: filePath, atomically: true, encoding: .utf8)
         } catch {
             print("Failed to save file \(filePath): \(error)")
         }

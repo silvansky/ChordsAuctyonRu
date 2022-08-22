@@ -134,3 +134,4 @@ F#:  x-4-4-3-2-x
 
 *UPD:* Есть акустика! Вот [видео 97 года](https://www.youtube.com/watch?v=Q4EkJPhznmk)!
 ```
+[Список песен](../songs.md)

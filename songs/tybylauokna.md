@@ -109,3 +109,4 @@ BONUS: [видео на ютубе](https://www.youtube.com/watch?v=GARhdh7ERv4)
 
 12 октября 1900
 ```
+[Список песен](../songs.md)

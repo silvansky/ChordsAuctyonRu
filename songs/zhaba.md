@@ -38,3 +38,4 @@ Hm:  2-2-4-4-3-x
 
 BONUS: [видео на ютубе](https://www.youtube.com/watch?v=6bKZoKQJ25Q)
 ```
+[Список песен](../songs.md)

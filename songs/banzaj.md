@@ -60,3 +60,4 @@ C:   x-3-2-0-1-x
 
 Бонус: [прекрасное видео 97 года](https://www.youtube.com/watch?v=fsQa-VZpWv4)
 ```
+[Список песен](../songs.md)

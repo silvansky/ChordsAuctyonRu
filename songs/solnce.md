@@ -67,3 +67,4 @@ BONUS: [видео на ютубе](https://www.youtube.com/watch?v=MxsmFKhV4tg)
 И зверь за зверем весело? парил.
 О-о, о-о, о-о...
 ```
+[Список песен](../songs.md)

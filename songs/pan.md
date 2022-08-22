@@ -85,3 +85,4 @@ F#m: 2-4-4-2-2-x
 BONUS: [Видео с пилой](https://www.youtube.com/watch?v=ux-9jY4WtmE)
 
 ```
+[Список песен](../songs.md)

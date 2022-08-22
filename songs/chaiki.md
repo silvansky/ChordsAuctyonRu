@@ -81,3 +81,4 @@ Gm:   3-x-0-3-3-x
 
 BONUS: [Видео с презентации альбома](https://www.youtube.com/watch?v=qwXMUASF3cw)
 ```
+[Список песен](../songs.md)
