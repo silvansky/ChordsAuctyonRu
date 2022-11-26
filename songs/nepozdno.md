@@ -1,6 +1,6 @@
 # Ещё не поздно
 
-[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s399072t3)
+[Табулатура на songsterr.com](https://www.songsterr.com/a/wsa/tab-s381462t2)
 
 [Видео 97 года, акустика](https://youtu.be/Y4VClFoKDaY?t=1240)
 
