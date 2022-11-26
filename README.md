@@ -40,6 +40,7 @@
 - [Думал](songs/dumal.md)
 - [Душа](songs/dusha.md)
 - [Душа не ведает судьбы](songs/dushanevedayetsudbi.md)
+- [Ещё не поздно](songs/nepozdno.md)
 - [Жаба](songs/zhaba.md)
 - [Ждать](songs/zhdat.md)
 - [Заведующий](songs/zaveduyushij.md)
@@ -124,7 +125,6 @@
 
 ## Обрывки/наброски
 
-- [Ещё не поздно](songs/nepozdno.md)
 - [Католики](songs/katoliki.md)
 - [Колдун](songs/koldun.md)
 
