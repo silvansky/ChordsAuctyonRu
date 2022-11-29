@@ -57,6 +57,7 @@
 - [Мао](songs/mao.md)
 - [Мимо](songs/mimo.md)
 - [Монте Крю](songs/motecru.md)
+- [Мойка](songs/moyka.md)
 - [Музыка моя](songs/muzikamoya.md)
 - [На Солнце](songs/na_solnce.md)
 - [На дне травы](songs/na_dne_travy.md)
